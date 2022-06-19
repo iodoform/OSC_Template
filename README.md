@@ -1,6 +1,18 @@
 # OSC_Template
-オープンソースで創作を行うためのテンプレート
+オープンソースで創作を行うためのテンプレート。
+
+
 # ライセンス
-[![クリエイティブ・コモンズ・ライセンス](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
-この 作品 は [クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-sa/4.0/)の下に提供されています。
-原作者のクレジット（氏名、作品タイトルなど）を表記して元の作品と同様のライセンスで公開する限り、商用非商用を問わず自由に改変・再配布を行うことが可能です。（詳細は[クリエイティブ・コモンズ・ジャパンの公式サイト](https://creativecommons.jp/licenses/)でご確認ください）
+このテンプレートはCC0で公開され、作者は法律の下、可能な限りこの作品に対するすべての著作権および関連・付随する権利を放棄します。
+
+[    ![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)
+](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law,
+<span rel="dct:publisher" resource="[_:publisher]">the person who associated CC0</span>
+with this work has waived all copyright and related or neighboring
+rights to this work.
+
+このテンプレートを使用する場合は、必要に応じて上記のライセンスを適当な別のライセンスに書き換えてご利用ください。
+
+ [クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス](http://creativecommons.org/licenses/by-sa/4.0/)の利用を推奨していますが、ほかのライセンスでも構いません。
